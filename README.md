@@ -2,9 +2,13 @@
 
 This repository contains a script that demonstrates how to preprocess and index documents using the LangChain library.
 
+![Alt text](assets/image.png)
+
 ## Summary
 
 The script allows you to interact with your notes stored in Notion using natural language. You can ask questions, and the script will retrieve the most relevant answers from your notes. It uses a retrieval-augmented model to search through your notes and provide accurate responses. Additionally, it provides citations for the sources of information, so you can easily refer back to the original notes.
+
+![Alt text](assets/rag.png)
 
 This repository contains a script that demonstrates how to preprocess and index documents using the LangChain library. The script utilizes the LangChain library to leverage a Notion database as the source of documents. It follows a step-by-step process to achieve the following:
 
